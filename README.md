@@ -1,9 +1,4 @@
-# BOT PY3 #
-# RAMBATE RATA HAYO #
-------
-Cara Install Bot :
-------
-C9 SERVER/ VPS :
+
 - `sudo apt-get update -y`
 - `sudo apt-get install git -y`
 - `sudo apt-get install python3-pip -y`
@@ -24,7 +19,7 @@ C9 SERVER/ VPS :
 - `cd BULPY3`
 - `python3 bul.py`
 
-INSTALL Di TERMUX :
+
 - `pkg update`
 - `pkg install git`
 - `pkg install python3-pip`
@@ -45,7 +40,6 @@ INSTALL Di TERMUX :
 - `cd BULPY3`
 - `python3 bul.py`
 
-Cara Menjalankan Bot Kembali :
 ------
 Di C9 :
 - `cd BULPY3`
@@ -56,3 +50,4 @@ Di Termux :
 - `python3 bul.py`
 
 
+@line_theme
